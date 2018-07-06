@@ -18,8 +18,9 @@ SQL query analayser analyses the given python file by the user and do the follow
 
 
 ## How to run
-1. Insert the file which you want to analyse in the search_file directory.
-2. Run **drive.py** and enter the filename for which you want to generate the report. Also enter the email-Id to send the report.
+1. Write the MySQL credentials in __config.ini__ file.
+2. Insert the file which you want to analyse in the **search_file directory**.
+3. Run **drive.py** and enter the filename for which you want to generate the report. Also enter the email-Id to send the report.
 
 
 ## How it works
